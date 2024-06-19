@@ -1,30 +1,25 @@
-[![MasterHead](https://www.behance.net/gallery/34348865/Electrical-equipment-GIF-animation)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Tarun prabhakar</h1>
-<h3 align="center">A passionate electronics engineer ,Eager to Innovate in Tech and Electronics Industries</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4665309-Robo-Walk-Cycle">
+# 💫 About Me:
+🔭 I’m currently working on automation with 8051 microcontroller<br><br>🌱 I’m currently learning Arduino IDE<br><br>💬 Ask me about electrical and electronics<br><br>📫 How to reach me taunx3@gmail.com<br><br>⚡ Fun fact I have a knack for solving complex problems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunprabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="tarunprabhakar" /> </p>
 
-- 🔭 I’m currently working on **automation with 8051 microcontroller**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tarun Prabhakar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Tarun S) 
 
-- 🌱 I’m currently learning **Arduino IDE**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tarunprabhakar&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tarunprabhakar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunprabhakar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 💬 Ask me about **electrical and electronics**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tarunprabhakar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **taunx3@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **I have a knack for solving complex problems**
+---
+[![](https://visitcount.itsvg.in/api?id=Tarunprabhakar&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tarun prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun prabhakar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tarun prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarun prabhakar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunprabhakar&show_icons=true&locale=en&layout=compact" alt="tarunprabhakar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunprabhakar&" alt="tarunprabhakar" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
