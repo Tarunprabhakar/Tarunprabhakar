@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunprabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="tarunprabhakar" /> </p>
 
-- 🔭 I’m currently working on **automation with 8051 microcontroller**
+- 🔭 I’m currently working on **Arduino ide**
 
-- 🌱 I’m currently learning **Arduino IDE**
+- 🌱 I’m currently learning **8051 microcontroller**
 
 - 💬 Ask me about **electrical and electronics**
 
