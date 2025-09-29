@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Tarun prabhakar</h1>
-<h3 align="center">A passionate electronics engineer ,Eager to Innovate in Tech and Electronics Industries</h3>
+<h3 align="center">A passionate electronics engineer , Eager to Innovate in Tech and Electronics Industries</h3>
 
 
 
